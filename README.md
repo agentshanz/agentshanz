@@ -8,7 +8,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=Building+AI+Products+for+Real+World+Impact.;AI+%26+AI+Agent+Engineer.;Founder+%40+Zenvy+Technologies.;Full+Stack+Developer.;Open+Source+Builder.;Learning.+Building.+Shipping." alt="Typing SVG">
 </p>
 
-<br>
 
 <img src="https://komarev.com/ghpvc/?username=agentshanz&label=Profile+Views&style=for-the-badge&color=0e75b6"/>
 
