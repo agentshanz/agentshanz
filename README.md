@@ -122,7 +122,7 @@ Machine Learning project that predicts student performance using **Scikit-learn'
 
 **Tech Stack**
 
-`Python` `Scikit-learn` `Pandas` `NumPy` `Matplotlib` `Logistic Regression`
+`Python` `Scikit-learn` `Pandas` `NumPy` `Matplotlib` `ML Algorithms`
 
 ---
 
