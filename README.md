@@ -91,7 +91,7 @@ AI-powered freelance ecosystem built by **Zenvy Technologies**.
 
 ---
 
-## 🎙️ VoiceAI Mobile
+## 🎙️ AI Mobile Automation Agent
 
 Voice-controlled AI mobile automation assistant.
 
@@ -110,7 +110,7 @@ Voice-controlled AI mobile automation assistant.
 
 ## 📊 Student Grade Prediction Model
 
-Machine Learning project that predicts student performance using **Scikit-learn's Logistic Regression**.
+Machine Learning project that predicts student performance using **Scikit-learn's Logistic Regression DecisionTree RandomForest**.
 
 ### Features
 
@@ -122,7 +122,7 @@ Machine Learning project that predicts student performance using **Scikit-learn'
 
 **Tech Stack**
 
-`Python` `Scikit-learn` `Pandas` `NumPy` `Matplotlib` `ML Algorithms`
+`Python` `Scikit-learn` `Pandas` `NumPy` `Matplotlib` `ML Algorithms` `Evaluation-Metrices`
 
 ---
 
