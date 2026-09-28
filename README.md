@@ -2,10 +2,10 @@
 
 # Hi 👋, I'm **Shanmuganathan S**
 
-### AI & AI Agent Engineer • Founder at Zenvy Technologies
+### 🤖 AI & AI Agent Engineer • Founder at Zenvy Technologies
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=Building+AI+Products+for+Real+World+Impact.;AI+%26+AI+Agent+Engineer.;Founder+%40+Zenvy+Technologies.;Full+Stack+Developer.;Open+Source+Builder.;Learning.+Building.+Shipping." alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1200&color=00BFFF&center=true&vCenter=true&width=850&lines=Building+AI+Products+for+Real+World+Impact.;AI+%26+AI+Agent+Engineer.;Founder+%40+Zenvy+Technologies.;Full+Stack+Developer.;Open+Source+Builder.;Learning.+Building.+Shipping."/>
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=agentshanz&label=Profile+Views&style=for-the-badge&color=0e75b6"/>
@@ -20,24 +20,21 @@
 
 # 🚀 About Me
 
-I'm **Shanmuganathan S**, a Computer Science Engineering student and the **Founder of Zenvy Technologies**, where I focus on building intelligent AI-powered products that solve real-world problems.
+I'm **Shanmuganathan S**, a Computer Science Engineering student and **Founder of Zenvy Technologies**, where I build AI-powered products that solve real-world problems.
 
-I believe the best way to master technology is to build products that people can actually use.
-
-### 🌟 My Mission
-
-> Build impactful AI products, contribute to open source, and become a world-class AI & AI Agent Engineer.
+> **Mission:** Build impactful AI products, contribute to open source, and become a world-class AI & AI Agent Engineer.
 
 ---
 
 # 💡 What I Do
 
-- 🤖 Build AI Agents
-- 🧠 Develop LLM-powered applications
-- 🌐 Create Full Stack products
-- 📱 Build Mobile AI experiences
-- 🚀 Launch startup products through Zenvy Technologies
-- 🔓 Contribute to Open Source
+- 🤖 AI Agents
+- 🧠 LLM Applications
+- 🔍 RAG Systems
+- 🌐 MERN Stack Development
+- 📱 Mobile AI Experiences
+- 🚀 Startup Products
+- 🔓 Open Source
 
 ---
 
@@ -46,7 +43,7 @@ I believe the best way to master technology is to build products that people can
 | Role | Focus |
 |------|-------|
 | Founder | Zenvy Technologies |
-| AI Builder | AI Agents & LLM Applications |
+| AI Builder | AI Agents & LLM Apps |
 | Full Stack Developer | MERN Ecosystem |
 | Product Builder | Turning Ideas into Products |
 
@@ -56,17 +53,16 @@ I believe the best way to master technology is to build products that people can
 
 ## 🌟 SenseAble AI
 
-AI accessibility assistant designed to help people with different abilities through intelligent real-world assistance.
+AI accessibility assistant designed to help people with different abilities.
 
-### Highlights
+**Highlights**
 
 - Computer Vision
 - Voice AI
-- Accessibility Assistant
-- Mobile-first Experience
-- AI-powered Navigation
+- Smart Navigation
+- Accessibility First
 
-**Tech Stack**
+**Tech**
 
 `React Native` `AI` `Computer Vision`
 
@@ -74,17 +70,16 @@ AI accessibility assistant designed to help people with different abilities thro
 
 ## 💼 ZenvyLance
 
-AI-powered freelance ecosystem built by **Zenvy Technologies**.
+AI-powered freelance marketplace by **Zenvy Technologies**.
 
-### Features
+**Features**
 
 - AI Validation Score
-- Secure Escrow Payments
-- Smart Freelancer Matching
-- Intelligent Project Evaluation
-- Razorpay Integration
+- Escrow Payments
+- Smart Matching
+- Razorpay
 
-**Tech Stack**
+**Tech**
 
 `React` `Node.js` `Express` `MongoDB`
 
@@ -92,75 +87,65 @@ AI-powered freelance ecosystem built by **Zenvy Technologies**.
 
 ## 🎙️ AI Mobile Automation Agent
 
-Voice-controlled AI mobile automation assistant.
+Voice-controlled mobile AI assistant.
 
-### Features
+**Features**
 
 - Voice Commands
 - AI Agents
-- Mobile Automation
-- Intelligent Task Execution
+- Task Automation
 
-**Tech Stack**
+**Tech**
 
-`React Native` `Node.js` `Python`
+`React Native` `Python` `Node.js`
 
 ---
 
 ## 📊 Student Grade Prediction Model
 
-Machine Learning project that predicts student performance using Scikit-learn.
+Machine Learning project using Scikit-learn.
 
-### Features
-
-- Student Performance Prediction
-- Data Preprocessing
-- Feature Engineering
-- Model Training & Evaluation
-- Accuracy-based Performance Analysis
-
-**Tech Stack**
+**Tech**
 
 `Python` `Scikit-learn` `Pandas` `NumPy` `Matplotlib`
 
 ---
 
-# 🛠️ Tech Stack
+# 🛠 Tech Stack
 
-## 👨‍💻 Programming Languages
+## Programming Languages
 
-<p align="left">
+<p>
 <img src="https://skillicons.dev/icons?i=python,javascript,java,cpp,c"/>
 </p>
 
-## 🤖 AI & Machine Learning
+## AI & Machine Learning
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow"/>
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
 </p>
 
-<p align="left">
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+<p>
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 </p>
 
-## 🌐 Full Stack
+## Full Stack
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,mongodb,mysql"/>
+<p>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,html,css"/>
 </p>
 
-## 📱 Mobile & Systems
+## Mobile & Systems
 
-<p align="left">
+<p>
 <img src="https://skillicons.dev/icons?i=reactnative,rust"/>
 </p>
 
-## ⚙️ Developer Tools
+## Developer Tools
 
-<p align="left">
+<p>
 <img src="https://skillicons.dev/icons?i=git,github,docker,figma,vscode,postman"/>
 </p>
 
@@ -170,9 +155,9 @@ Machine Learning project that predicts student performance using Scikit-learn.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=agentshanz&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"/>
+<img height="170" src="https://github-readme-stats-fast.vercel.app/api?username=agentshanz&show_icons=true&theme=transparent&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agentshanz&layout=compact&theme=transparent&hide_border=true"/>
+<img height="170" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=agentshanz&layout=compact&theme=transparent&hide_border=true"/>
 
 </div>
 
@@ -182,7 +167,17 @@ Machine Learning project that predicts student performance using Scikit-learn.
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=agentshanz&theme=transparent&hide_border=true"/>
+<img src="https://github-readme-stats-fast.vercel.app/api/streak?username=agentshanz&theme=transparent&hide_border=true"/>
+
+</div>
+
+---
+
+# 📅 GitHub Contribution Graph
+
+<div align="center">
+
+<img src="https://ghchart.rshah.org/00BFFF/agentshanz" alt="GitHub Contribution Graph"/>
 
 </div>
 
@@ -190,14 +185,14 @@ Machine Learning project that predicts student performance using Scikit-learn.
 
 # 🐍 Contribution Snake
 
-> Automatically updates every day using GitHub Actions.
+> Updates automatically every day using GitHub Actions.
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/agentshanz/agentshanz/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/agentshanz/agentshanz/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/agentshanz/agentshanz/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/agentshanz/agentshanz/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/agentshanz/agentshanz/output/github-contribution-grid-snake.svg"/>
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/agentshanz/agentshanz/output/github-contribution-grid-snake.svg"/>
 </picture>
 
 </div>
@@ -211,16 +206,14 @@ Machine Learning project that predicts student performance using Scikit-learn.
 | AI | Engineering | Startup |
 |----|-------------|----------|
 | AI Agents | Full Stack | Zenvy |
-| LLM Apps | Open Source | Products |
-| Deep Learning | Mobile AI | SaaS |
+| LLM Apps | Open Source | SaaS |
+| Deep Learning | Mobile AI | Products |
 
 </div>
 
 ---
 
 # 📚 Learning Roadmap
-
-Currently exploring the next generation of AI technologies.
 
 - Machine Learning
 - Deep Learning
@@ -235,22 +228,22 @@ Currently exploring the next generation of AI technologies.
 
 # 🌍 Open Source Goals
 
-- Publish AI projects
-- Release Hugging Face demos
-- Contribute to AI repositories
-- Build reusable developer tools
-- Share technical content
+- Publish AI Projects
+- Release Hugging Face Demos
+- Contribute to AI Repositories
+- Build Developer Tools
+- Share Technical Content
 
 ---
 
 # 🏆 2026 Goals
 
 - 🚀 Grow Zenvy Technologies
-- 🤖 Build production-ready AI Agents
-- 🌐 Launch globally used software
-- 📈 Strengthen my GitHub portfolio
-- 💼 Secure high-impact opportunities
-- 🌍 Contribute consistently to Open Source
+- 🤖 Build Production AI Agents
+- 🌍 Launch Global Products
+- 📈 Strengthen GitHub Portfolio
+- 💼 Secure High-impact Opportunities
+- 🔓 Contribute Consistently
 
 ---
 
@@ -292,14 +285,12 @@ Currently exploring the next generation of AI technologies.
 
 # 🚀 Beyond Coding
 
-Besides coding, I'm passionate about:
-
 - 🧩 Product Thinking
 - 🚀 Startup Building
 - 🤖 Artificial Intelligence
-- 🌍 Building software with real-world impact
+- 🌍 Real-world Software
 - 📚 Continuous Learning
-- 💡 Turning ideas into products
+- 💡 Turning Ideas into Products
 
 ---
 
@@ -307,13 +298,13 @@ Besides coding, I'm passionate about:
 
 > I don't just build projects.
 
-> I build products that move one step closer to my vision of creating intelligent software through **Zenvy Technologies**.
+> I build products that move one step closer to my vision through **Zenvy Technologies**.
 
 ---
 
 <div align="center">
 
-## Thanks for visiting! ❤️
+## Thanks for visiting ❤️
 
 ### Building the future with AI, one product at a time.
 
