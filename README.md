@@ -8,7 +8,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=Building+AI+Products+for+Real+World+Impact.;AI+%26+AI+Agent+Engineer.;Founder+%40+Zenvy+Technologies.;Full+Stack+Developer.;Open+Source+Builder.;Learning.+Building.+Shipping." alt="Typing SVG">
 </p>
 
-
 <img src="https://komarev.com/ghpvc/?username=agentshanz&label=Profile+Views&style=for-the-badge&color=0e75b6"/>
 
 <img src="https://img.shields.io/github/followers/agentshanz?style=for-the-badge&logo=github"/>
@@ -23,7 +22,7 @@
 
 I'm **Shanmuganathan S**, a Computer Science Engineering student and the **Founder of Zenvy Technologies**, where I focus on building intelligent AI-powered products that solve real-world problems.
 
-I believe that the best way to master technology is to build products that people can actually use.
+I believe the best way to master technology is to build products that people can actually use.
 
 ### 🌟 My Mission
 
@@ -31,7 +30,7 @@ I believe that the best way to master technology is to build products that peopl
 
 ---
 
-## 💡 What I Do
+# 💡 What I Do
 
 - 🤖 Build AI Agents
 - 🧠 Develop LLM-powered applications
@@ -42,14 +41,14 @@ I believe that the best way to master technology is to build products that peopl
 
 ---
 
-## 🏢 Founder Journey
+# 🏢 Founder Journey
 
 | Role | Focus |
 |------|-------|
 | Founder | Zenvy Technologies |
 | AI Builder | AI Agents & LLM Applications |
 | Full Stack Developer | MERN Ecosystem |
-| Product Builder | Turning ideas into products |
+| Product Builder | Turning Ideas into Products |
 
 ---
 
@@ -110,7 +109,7 @@ Voice-controlled AI mobile automation assistant.
 
 ## 📊 Student Grade Prediction Model
 
-Machine Learning project that predicts student performance using **Scikit-learn's Logistic Regression DecisionTree RandomForest**.
+Machine Learning project that predicts student performance using Scikit-learn.
 
 ### Features
 
@@ -122,7 +121,7 @@ Machine Learning project that predicts student performance using **Scikit-learn'
 
 **Tech Stack**
 
-`Python` `Scikit-learn` `Pandas` `NumPy` `Matplotlib` `ML Algorithms` `Evaluation-Metrices`
+`Python` `Scikit-learn` `Pandas` `NumPy` `Matplotlib`
 
 ---
 
@@ -167,13 +166,13 @@ Machine Learning project that predicts student performance using **Scikit-learn'
 
 ---
 
-## 📊 GitHub Analytics
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="170" src="./profile/stats.svg"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=agentshanz&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"/>
 
-<img height="170" src="./profile/top-langs.svg"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agentshanz&layout=compact&theme=transparent&hide_border=true"/>
 
 </div>
 
@@ -191,11 +190,15 @@ Machine Learning project that predicts student performance using **Scikit-learn'
 
 # 🐍 Contribution Snake
 
-> Enable this after creating the GitHub Action.
+> Automatically updates every day using GitHub Actions.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/agentshanz/agentshanz/output/github-contribution-grid-snake.svg"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/agentshanz/agentshanz/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/agentshanz/agentshanz/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/agentshanz/agentshanz/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
 
