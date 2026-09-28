@@ -2,17 +2,18 @@
 
 # Hi 👋, I'm **Shanmuganathan S**
 
-### 🤖 AI & AI Agent Engineer • Founder at Zenvy Technologies
+### AI & AI Agent Engineer • Founder at Zenvy Technologies
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1200&color=00BFFF&center=true&vCenter=true&width=900&lines=Building+AI+Products+for+Real+World+Impact.;AI+%26+AI+Agent+Engineer.;Founder+%40+Zenvy+Technologies.;Full+Stack+Developer.;Open+Source+Builder.;Learning.+Building.+Shipping."/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=Building+AI+Products+for+Real+World+Impact.;AI+%26+AI+Agent+Engineer.;Founder+%40+Zenvy+Technologies.;Full+Stack+Developer.;Open+Source+Builder.;Learning.+Building.+Shipping." alt="Typing SVG">
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=agentshanz&label=Profile+Views&style=for-the-badge&color=0e75b6"/>
-  <img src="https://img.shields.io/github/followers/agentshanz?style=for-the-badge&logo=github"/>
-  <img src="https://img.shields.io/github/stars/agentshanz?style=for-the-badge&logo=github"/>
-</p>
+
+<img src="https://komarev.com/ghpvc/?username=agentshanz&label=Profile+Views&style=for-the-badge&color=0e75b6"/>
+
+<img src="https://img.shields.io/github/followers/agentshanz?style=for-the-badge&logo=github"/>
+
+<img src="https://img.shields.io/github/stars/agentshanz?style=for-the-badge&logo=github"/>
 
 </div>
 
@@ -20,32 +21,35 @@
 
 # 🚀 About Me
 
-I'm **Shanmuganathan S**, a Computer Science Engineering student and the **Founder of Zenvy Technologies**, where I build AI-powered products that solve real-world problems.
+I'm **Shanmuganathan S**, a Computer Science Engineering student and the **Founder of Zenvy Technologies**, where I focus on building intelligent AI-powered products that solve real-world problems.
 
-> **Mission:** Build impactful AI products, contribute to open source, and become a world-class AI & AI Agent Engineer.
+I believe that the best way to master technology is to build products that people can actually use.
 
----
+### 🌟 My Mission
 
-# 💡 What I Do
-
-- 🤖 AI Agents
-- 🧠 LLM Applications
-- 🔍 RAG Systems
-- 🌐 MERN Stack Development
-- 📱 Mobile AI Experiences
-- 🚀 Startup Products
-- 🔓 Open Source
+> Build impactful AI products, contribute to open source, and become a world-class AI & AI Agent Engineer.
 
 ---
 
-# 🏢 Founder Journey
+## 💡 What I Do
+
+- 🤖 Build AI Agents
+- 🧠 Develop LLM-powered applications
+- 🌐 Create Full Stack products
+- 📱 Build Mobile AI experiences
+- 🚀 Launch startup products through Zenvy Technologies
+- 🔓 Contribute to Open Source
+
+---
+
+## 🏢 Founder Journey
 
 | Role | Focus |
 |------|-------|
 | Founder | Zenvy Technologies |
-| AI Builder | AI Agents & LLM Apps |
+| AI Builder | AI Agents & LLM Applications |
 | Full Stack Developer | MERN Ecosystem |
-| Product Builder | Turning Ideas into Products |
+| Product Builder | Turning ideas into products |
 
 ---
 
@@ -53,107 +57,123 @@ I'm **Shanmuganathan S**, a Computer Science Engineering student and the **Found
 
 ## 🌟 SenseAble AI
 
-AI accessibility assistant designed to help people with different abilities.
+AI accessibility assistant designed to help people with different abilities through intelligent real-world assistance.
+
+### Highlights
 
 - Computer Vision
 - Voice AI
-- Smart Navigation
-- Accessibility First
+- Accessibility Assistant
+- Mobile-first Experience
+- AI-powered Navigation
 
-**Tech:** `React Native` `AI` `Computer Vision`
+**Tech Stack**
+
+`React Native` `AI` `Computer Vision`
 
 ---
 
 ## 💼 ZenvyLance
 
-AI-powered freelance marketplace by **Zenvy Technologies**.
+AI-powered freelance ecosystem built by **Zenvy Technologies**.
+
+### Features
 
 - AI Validation Score
-- Escrow Payments
-- Smart Matching
+- Secure Escrow Payments
+- Smart Freelancer Matching
+- Intelligent Project Evaluation
 - Razorpay Integration
 
-**Tech:** `React` `Node.js` `Express` `MongoDB`
+**Tech Stack**
+
+`React` `Node.js` `Express` `MongoDB`
 
 ---
 
 ## 🎙️ AI Mobile Automation Agent
 
-Voice-controlled mobile AI assistant.
+Voice-controlled AI mobile automation assistant.
+
+### Features
 
 - Voice Commands
 - AI Agents
-- Task Automation
+- Mobile Automation
+- Intelligent Task Execution
 
-**Tech:** `React Native` `Python` `Node.js`
+**Tech Stack**
+
+`React Native` `Node.js` `Python`
 
 ---
 
 ## 📊 Student Grade Prediction Model
 
-Machine Learning project using Scikit-learn.
+Machine Learning project that predicts student performance using **Scikit-learn's Logistic Regression DecisionTree RandomForest**.
 
-**Tech:** `Python` `Scikit-learn` `Pandas` `NumPy` `Matplotlib`
+### Features
+
+- Student Performance Prediction
+- Data Preprocessing
+- Feature Engineering
+- Model Training & Evaluation
+- Accuracy-based Performance Analysis
+
+**Tech Stack**
+
+`Python` `Scikit-learn` `Pandas` `NumPy` `Matplotlib` `ML Algorithms` `Evaluation-Metrices`
 
 ---
 
-# 🛠 Tech Stack
+# 🛠️ Tech Stack
 
-## Programming Languages
+## 👨‍💻 Programming Languages
 
-<p>
+<p align="left">
 <img src="https://skillicons.dev/icons?i=python,javascript,java,cpp,c"/>
 </p>
 
-## AI & Machine Learning
+## 🤖 AI & Machine Learning
 
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow"/>
 </p>
 
-<p>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<p align="left">
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 </p>
 
-## Full Stack
+## 🌐 Full Stack
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,html,css"/>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,mongodb,mysql"/>
 </p>
 
-## Mobile & Systems
+## 📱 Mobile & Systems
 
-<p>
+<p align="left">
 <img src="https://skillicons.dev/icons?i=reactnative,rust"/>
 </p>
 
-## Developer Tools
+## ⚙️ Developer Tools
 
-<p>
+<p align="left">
 <img src="https://skillicons.dev/icons?i=git,github,docker,figma,vscode,postman"/>
 </p>
 
 ---
 
-# 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=agentshanz&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"/>
+<img height="170" src="./profile/stats.svg"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agentshanz&layout=compact&theme=transparent&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=agentshanz&theme=algolia&no-frame=true&row=1&column=6"/>
+<img height="170" src="./profile/top-langs.svg"/>
 
 </div>
 
@@ -163,17 +183,7 @@ Machine Learning project using Scikit-learn.
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=agentshanz&theme=transparent&hide_border=true&date_format=M%20j%5B,%20Y%5D"/>
-
-</div>
-
----
-
-# 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=agentshanz&theme=github-compact&hide_border=true&area=true"/>
+<img src="https://streak-stats.demolab.com?user=agentshanz&theme=transparent&hide_border=true"/>
 
 </div>
 
@@ -181,15 +191,11 @@ Machine Learning project using Scikit-learn.
 
 # 🐍 Contribution Snake
 
-> Updates automatically every day using GitHub Actions.
+> Enable this after creating the GitHub Action.
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/agentshanz/agentshanz/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/agentshanz/agentshanz/output/github-contribution-grid-snake.svg">
-  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/agentshanz/agentshanz/output/github-contribution-grid-snake.svg">
-</picture>
+<img src="https://raw.githubusercontent.com/agentshanz/agentshanz/output/github-contribution-grid-snake.svg"/>
 
 </div>
 
@@ -202,14 +208,16 @@ Machine Learning project using Scikit-learn.
 | AI | Engineering | Startup |
 |----|-------------|----------|
 | AI Agents | Full Stack | Zenvy |
-| LLM Apps | Open Source | SaaS |
-| Deep Learning | Mobile AI | Products |
+| LLM Apps | Open Source | Products |
+| Deep Learning | Mobile AI | SaaS |
 
 </div>
 
 ---
 
 # 📚 Learning Roadmap
+
+Currently exploring the next generation of AI technologies.
 
 - Machine Learning
 - Deep Learning
@@ -224,22 +232,22 @@ Machine Learning project using Scikit-learn.
 
 # 🌍 Open Source Goals
 
-- Publish AI Projects
-- Release Hugging Face Demos
-- Contribute to AI Repositories
-- Build Developer Tools
-- Share Technical Content
+- Publish AI projects
+- Release Hugging Face demos
+- Contribute to AI repositories
+- Build reusable developer tools
+- Share technical content
 
 ---
 
 # 🏆 2026 Goals
 
 - 🚀 Grow Zenvy Technologies
-- 🤖 Build Production AI Agents
-- 🌍 Launch Global Products
-- 📈 Strengthen GitHub Portfolio
-- 💼 Secure High-impact Opportunities
-- 🔓 Contribute Consistently
+- 🤖 Build production-ready AI Agents
+- 🌐 Launch globally used software
+- 📈 Strengthen my GitHub portfolio
+- 💼 Secure high-impact opportunities
+- 🌍 Contribute consistently to Open Source
 
 ---
 
@@ -281,12 +289,14 @@ Machine Learning project using Scikit-learn.
 
 # 🚀 Beyond Coding
 
+Besides coding, I'm passionate about:
+
 - 🧩 Product Thinking
 - 🚀 Startup Building
 - 🤖 Artificial Intelligence
-- 🌍 Real-world Software
+- 🌍 Building software with real-world impact
 - 📚 Continuous Learning
-- 💡 Turning Ideas into Products
+- 💡 Turning ideas into products
 
 ---
 
@@ -294,13 +304,13 @@ Machine Learning project using Scikit-learn.
 
 > I don't just build projects.
 
-> I build products that move one step closer to my vision through **Zenvy Technologies**.
+> I build products that move one step closer to my vision of creating intelligent software through **Zenvy Technologies**.
 
 ---
 
 <div align="center">
 
-## Thanks for visiting ❤️
+## Thanks for visiting! ❤️
 
 ### Building the future with AI, one product at a time.
 
