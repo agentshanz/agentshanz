@@ -5,14 +5,14 @@
 ### 🤖 AI & AI Agent Engineer • Founder at Zenvy Technologies
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1200&color=00BFFF&center=true&vCenter=true&width=850&lines=Building+AI+Products+for+Real+World+Impact.;AI+%26+AI+Agent+Engineer.;Founder+%40+Zenvy+Technologies.;Full+Stack+Developer.;Open+Source+Builder.;Learning.+Building.+Shipping."/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1200&color=00BFFF&center=true&vCenter=true&width=900&lines=Building+AI+Products+for+Real+World+Impact.;AI+%26+AI+Agent+Engineer.;Founder+%40+Zenvy+Technologies.;Full+Stack+Developer.;Open+Source+Builder.;Learning.+Building.+Shipping."/>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=agentshanz&label=Profile+Views&style=for-the-badge&color=0e75b6"/>
-
-<img src="https://img.shields.io/github/followers/agentshanz?style=for-the-badge&logo=github"/>
-
-<img src="https://img.shields.io/github/stars/agentshanz?style=for-the-badge&logo=github"/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=agentshanz&label=Profile+Views&style=for-the-badge&color=0e75b6"/>
+  <img src="https://img.shields.io/github/followers/agentshanz?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/github/stars/agentshanz?style=for-the-badge&logo=github"/>
+</p>
 
 </div>
 
@@ -20,7 +20,7 @@
 
 # 🚀 About Me
 
-I'm **Shanmuganathan S**, a Computer Science Engineering student and **Founder of Zenvy Technologies**, where I build AI-powered products that solve real-world problems.
+I'm **Shanmuganathan S**, a Computer Science Engineering student and the **Founder of Zenvy Technologies**, where I build AI-powered products that solve real-world problems.
 
 > **Mission:** Build impactful AI products, contribute to open source, and become a world-class AI & AI Agent Engineer.
 
@@ -55,16 +55,12 @@ I'm **Shanmuganathan S**, a Computer Science Engineering student and **Founder o
 
 AI accessibility assistant designed to help people with different abilities.
 
-**Highlights**
-
 - Computer Vision
 - Voice AI
 - Smart Navigation
 - Accessibility First
 
-**Tech**
-
-`React Native` `AI` `Computer Vision`
+**Tech:** `React Native` `AI` `Computer Vision`
 
 ---
 
@@ -72,16 +68,12 @@ AI accessibility assistant designed to help people with different abilities.
 
 AI-powered freelance marketplace by **Zenvy Technologies**.
 
-**Features**
-
 - AI Validation Score
 - Escrow Payments
 - Smart Matching
-- Razorpay
+- Razorpay Integration
 
-**Tech**
-
-`React` `Node.js` `Express` `MongoDB`
+**Tech:** `React` `Node.js` `Express` `MongoDB`
 
 ---
 
@@ -89,15 +81,11 @@ AI-powered freelance marketplace by **Zenvy Technologies**.
 
 Voice-controlled mobile AI assistant.
 
-**Features**
-
 - Voice Commands
 - AI Agents
 - Task Automation
 
-**Tech**
-
-`React Native` `Python` `Node.js`
+**Tech:** `React Native` `Python` `Node.js`
 
 ---
 
@@ -105,9 +93,7 @@ Voice-controlled mobile AI assistant.
 
 Machine Learning project using Scikit-learn.
 
-**Tech**
-
-`Python` `Scikit-learn` `Pandas` `NumPy` `Matplotlib`
+**Tech:** `Python` `Scikit-learn` `Pandas` `NumPy` `Matplotlib`
 
 ---
 
@@ -155,9 +141,19 @@ Machine Learning project using Scikit-learn.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats-fast.vercel.app/api?username=agentshanz&show_icons=true&theme=transparent&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=agentshanz&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"/>
 
-<img height="170" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=agentshanz&layout=compact&theme=transparent&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agentshanz&layout=compact&theme=transparent&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=agentshanz&theme=algolia&no-frame=true&row=1&column=6"/>
 
 </div>
 
@@ -167,17 +163,17 @@ Machine Learning project using Scikit-learn.
 
 <div align="center">
 
-<img src="https://github-readme-stats-fast.vercel.app/api/streak?username=agentshanz&theme=transparent&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=agentshanz&theme=transparent&hide_border=true&date_format=M%20j%5B,%20Y%5D"/>
 
 </div>
 
 ---
 
-# 📅 GitHub Contribution Graph
+# 📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://ghchart.rshah.org/00BFFF/agentshanz" alt="GitHub Contribution Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=agentshanz&theme=github-compact&hide_border=true&area=true"/>
 
 </div>
 
@@ -190,9 +186,9 @@ Machine Learning project using Scikit-learn.
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/agentshanz/agentshanz/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/agentshanz/agentshanz/output/github-contribution-grid-snake.svg"/>
-  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/agentshanz/agentshanz/output/github-contribution-grid-snake.svg"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/agentshanz/agentshanz/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/agentshanz/agentshanz/output/github-contribution-grid-snake.svg">
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/agentshanz/agentshanz/output/github-contribution-grid-snake.svg">
 </picture>
 
 </div>
