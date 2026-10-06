@@ -1,11 +1,11 @@
 <div align="center">
 
-# 👋 Hi, I'm **Shanmuganathan S**
+# 👋 Hi, I'm **SHANMUGANATHAN S**
 
-### 🤖 AI & AI Agent Engineer • 🦾 Robotics Explorer • 🚀 Founder at Zenvy Technologies
+### 🤖 AI & AI Agent Engineer • 🦾 Robotics Explorer • 🔬 Aspiring AI Researcher • 🚀 Founder at Zenvy Technologies
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&color=00BFFF&center=true&vCenter=true&width=850&lines=Building+Intelligent+Systems+for+Real-World+Problems.;AI+%26+AI+Agent+Engineer.;Exploring+Robotics+%26+Embodied+AI.;Exploring+AGI+%26+Superintelligence.;Founder+%40+Zenvy+Technologies.;Learn.+Build.+Ship.+Improve." alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Building+Intelligent+Systems+for+Real-World+Problems.;AI+%26+AI+Agent+Engineer.;Exploring+Robotics+%26+Embodied+AI.;Growing+as+an+AI+Researcher.;Exploring+AGI+%26+Superintelligence.;Studying+Deep+Scientific+Problems.;Founder+%40+Zenvy+Technologies.;Learn.+Build.+Research.+Ship." alt="Typing SVG">
 </p>
 
 <p align="center">
@@ -20,84 +20,129 @@
 
 # 🚀 About Me
 
-I'm **Shanmuganathan S**, a Computer Science Engineering student, **AI & AI Agent Engineer**, and Founder of **Zenvy Technologies**.
+I'm **SHANMUGANATHAN  S**, a Computer Science Engineering student, **AI & AI Agent Engineer**, aspiring researcher, and Founder of **Zenvy Technologies**.
 
-I'm passionate about understanding how intelligent systems work and turning that knowledge into products that solve real-world problems.
+I'm interested in understanding intelligence at a deeper level — not just using existing AI tools, but learning how intelligent systems work, building them from first principles, and exploring what is possible beyond today's AI.
 
-My current journey is focused on:
+My interests sit at the intersection of:
 
-* 🤖 Artificial Intelligence & AI Agents
+* 🤖 Artificial Intelligence
 * 🧠 Machine Learning & Deep Learning
-* 🧩 LLMs, RAG & Multimodal AI
+* 🧩 LLMs & AI Agents
+* 🔎 AI Research
 * 🦾 Robotics & Embodied AI
 * 👁️ Computer Vision
-* ⚙️ AI Automation
-* 🚀 Product & Startup Building
-* 🔬 Exploring AGI & Superintelligence
+* 🧮 Mathematics & Computational Science
+* ⚡ AGI & Superintelligence
+* 🚀 Technology & Product Building
 
-I believe the best way to learn technology is to **build with it**.
+I believe that becoming a strong engineer is about **building**, while becoming a strong scientist is about **questioning, experimenting, understanding, and discovering**.
 
-> **Learn → Build → Ship → Improve → Repeat**
+I'm trying to grow in both directions.
 
 ---
 
-# 🎯 My Vision
+# 🧠 My Mission
 
-My long-term goal is to work at the intersection of:
+> **Build intelligent systems, explore fundamental questions, and contribute to technology and science in meaningful ways.**
+
+My long-term vision is to work at the intersection of **AI, robotics, advanced machine intelligence, and scientific research**.
+
+I want to move beyond simply implementing existing solutions and eventually contribute to the development of **new ideas, algorithms, systems, and scientific knowledge**.
+
+---
+
+# 🔬 Growing as a Scientist
+
+I'm increasingly interested in research and fundamental scientific problems.
+
+For me, research means:
+
+* Asking difficult questions
+* Understanding problems from first principles
+* Studying mathematics behind systems
+* Reading research papers
+* Reproducing experiments
+* Designing new experiments
+* Testing hypotheses
+* Learning from failures
+* Building mathematical and computational intuition
+* Sharing results openly
+
+I'm especially interested in the relationship between **mathematics, computation, intelligence, and physical systems**.
+
+### 🌌 Long-Term Scientific Ambition
+
+One of my long-term ambitions is to study some of the deepest open problems in mathematics and computer science, including areas connected to the **Millennium Prize Problems**.
+
+The goal isn't simply to claim that I will solve them.
+
+The goal is to **develop enough mathematical maturity and scientific ability to seriously understand these problems and, one day, potentially contribute to solving fundamental open problems.**
+
+---
+
+# 🧠 Areas I'm Exploring
 
 ```text
-AI
+Artificial Intelligence
 │
 ├── Machine Learning
 ├── Deep Learning
-├── LLMs
+├── Large Language Models
 ├── AI Agents
 ├── Multimodal AI
+├── Reasoning Systems
 │
 ├── Computer Vision
 │
 ├── Robotics
 │   ├── Perception
 │   ├── Planning
+│   ├── Navigation
 │   ├── Control
 │   └── Embodied AI
 │
-└── AGI / Superintelligence
+├── AI Research
+│
+├── Mathematics
+│
+├── AGI
+│
+└── Superintelligence
 ```
-
-I want to understand and build increasingly capable intelligent systems — from software agents to systems that can **perceive, reason, learn, and interact with the physical world**.
 
 ---
 
-# 🧠 What I'm Building
+# 💡 What I Build
 
 * 🤖 AI Agents
 * 🧠 LLM-powered applications
 * 🔎 RAG systems
-* 🔄 AI automation workflows
+* 🔄 AI automation systems
 * 👁️ Computer Vision applications
-* 🦾 Robotics & Embodied AI experiments
+* 🦾 Robotics experiments
 * 🌐 Full-stack AI products
-* 📱 AI-powered mobile experiences
+* 📱 AI-powered mobile applications
 * 🚀 Startup products through Zenvy Technologies
-* 🔓 Open-source projects and developer tools
+* 🔓 Open-source projects
+* 🔬 Research-oriented experiments
 
 ---
 
 # 🏢 Zenvy Technologies
 
-I'm the **Founder of Zenvy Technologies**, a technology initiative focused on turning ideas into useful digital products.
+I'm the **Founder of Zenvy Technologies**, where I work on turning ideas into useful digital products.
 
-### Our areas of interest
+Our interests include:
 
-| Area         | Focus                                 |
-| ------------ | ------------------------------------- |
-| 🤖 AI        | AI applications & intelligent systems |
-| 🧠 AI Agents | Autonomous task execution             |
-| 🌐 Web       | Full-stack applications               |
-| 📱 Mobile    | AI-powered mobile experiences         |
-| 🎨 UI/UX     | Product experiences                   |
-| 🚀 Products  | SaaS & startup ideas                  |
+| Area         | Focus                     |
+| ------------ | ------------------------- |
+| 🤖 AI        | Intelligent applications  |
+| 🧠 AI Agents | Autonomous task execution |
+| 🌐 Web       | Full-stack products       |
+| 📱 Mobile    | AI-powered experiences    |
+| 🎨 Design    | Product & UI/UX           |
+| 🚀 Products  | SaaS & startup ideas      |
 
 > **Turning Ideas into Innovation.**
 
@@ -107,7 +152,7 @@ I'm the **Founder of Zenvy Technologies**, a technology initiative focused on tu
 
 ## 🌟 SenseAble AI
 
-**Universal AI Accessibility Assistant**
+### Universal AI Accessibility Assistant
 
 An AI-powered accessibility concept designed to assist people with different accessibility needs through intelligent interaction and real-world assistance.
 
@@ -125,9 +170,9 @@ An AI-powered accessibility concept designed to assist people with different acc
 
 ## 💼 ZenvyLance
 
-**AI-Powered Freelance Marketplace**
+### AI-Powered Freelance Ecosystem
 
-A freelance ecosystem designed around AI-assisted matching, verification, trust, and project evaluation.
+A freelance marketplace concept built around AI-assisted matching, verification, trust, and intelligent project evaluation.
 
 ### Features
 
@@ -144,9 +189,9 @@ A freelance ecosystem designed around AI-assisted matching, verification, trust,
 
 ## 🎙️ AI Mobile Automation Agent
 
-**Voice-first AI Mobile Automation**
+### Voice-First Mobile AI Agent
 
-An experimental AI agent designed to understand voice commands and perform tasks on mobile devices.
+An experimental AI agent designed to understand voice commands and execute tasks on mobile devices.
 
 ### Focus
 
@@ -162,7 +207,7 @@ An experimental AI agent designed to understand voice commands and perform tasks
 
 ## 📊 Student Grade Predictor
 
-Machine Learning project for predicting student performance using supervised learning algorithms.
+A Machine Learning project for predicting student performance using supervised learning algorithms.
 
 ### Includes
 
@@ -178,7 +223,7 @@ Machine Learning project for predicting student performance using supervised lea
 
 # 🛠️ Technology Stack
 
-## 👨‍💻 Languages
+## 👨‍💻 Programming Languages
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=python,javascript,java,cpp,c"/>
@@ -199,23 +244,23 @@ Machine Learning project for predicting student performance using supervised lea
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
 </p>
 
-### Exploring
+### Working With
 
-`LLMs` `RAG` `AI Agents` `Multimodal AI` `Deep Learning` `Computer Vision` `Reinforcement Learning`
+`Machine Learning` `Deep Learning` `LLMs` `RAG` `AI Agents` `Multimodal AI` `Computer Vision`
 
 ---
 
 ## 🦾 Robotics & Intelligent Systems
 
-Currently expanding from software-based AI into physical intelligent systems.
+Exploring the intersection of artificial intelligence and physical systems.
 
-### Exploring
+### Areas of Interest
 
-`Robotics` `ROS 2` `Computer Vision` `Sensors` `Robot Perception` `Navigation` `Control Systems` `Embodied AI`
+`Robotics` `ROS 2` `Computer Vision` `Sensors` `Perception` `Navigation` `Control Systems` `Embodied AI`
 
 ---
 
-## 🌐 Full Stack
+## 🌐 Full Stack Development
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,mongodb,mysql"/>
@@ -275,86 +320,66 @@ Currently expanding from software-based AI into physical intelligent systems.
 
 <div align="center">
 
-|      🤖 AI      |     🦾 Robotics     | 🚀 Building |
-| :-------------: | :-----------------: | :---------: |
-|    AI Agents    |   Computer Vision   |    Zenvy    |
-| LLM Engineering |   Robot Perception  | AI Products |
-|  Deep Learning  |     Embodied AI     | Open Source |
-|   RAG Systems   | Intelligent Systems |  Hackathons |
+|      🤖 AI      |     🦾 Robotics     |      🔬 Research     | 🚀 Building |
+| :-------------: | :-----------------: | :------------------: | :---------: |
+|    AI Agents    |   Computer Vision   |      Mathematics     |    Zenvy    |
+| LLM Engineering |      Perception     |      AI Research     | AI Products |
+|  Deep Learning  |     Embodied AI     | Scientific Computing | Open Source |
+|   RAG Systems   | Intelligent Systems |     Open Problems    |  Hackathons |
 
 </div>
 
 ---
 
-# 📚 Learning Roadmap
+# 🔬 Research Interests
 
-My current learning journey is moving from foundational AI toward increasingly capable intelligent systems.
+I'm interested in exploring questions around:
 
-### Phase 1 — Foundations
+* How can intelligent systems reason more effectively?
+* How can AI agents learn to plan and act autonomously?
+* How can LLMs interact reliably with the physical world?
+* How can robots develop stronger perception and reasoning?
+* How can AI systems learn continuously?
+* How can mathematical ideas lead to better computational intelligence?
+* What are the fundamental limits of computation and intelligence?
+* What could the path from today's AI systems toward AGI look like?
+* How can increasingly capable AI systems remain safe and aligned?
 
-* Python
-* Mathematics for AI
-* Data Structures & Algorithms
-* Machine Learning
-* Deep Learning
-
-### Phase 2 — Modern AI
-
-* Transformers
-* LLM Engineering
-* RAG
-* AI Agents
-* Tool Calling
-* Multi-Agent Systems
-* AI Automation
-* Multimodal AI
-
-### Phase 3 — Intelligent Machines
-
-* Computer Vision
-* Robotics
-* ROS 2
-* Sensors
-* Robot Perception
-* Navigation
-* Control Systems
-* Reinforcement Learning
-* Embodied AI
-
-### Long-Term Direction
-
-* AGI
-* Advanced AI Reasoning
-* AI Safety & Alignment
-* Superintelligence Research
-* Intelligent Robotics
+I'm still early in this journey, but I'm committed to developing the mathematical, computational, and scientific foundations required to explore these questions seriously.
 
 ---
 
-# 🔬 Research Interests
+# 🌌 Open Problems & Scientific Curiosity
 
-I'm especially interested in exploring questions around:
+I'm fascinated by problems that sit at the boundary of what humanity currently understands.
 
-* How can AI agents reason and act autonomously?
-* How can LLMs interact with the physical world?
-* How can robots use multimodal intelligence?
-* How can intelligent systems continuously learn?
-* How can AI systems become more capable while remaining reliable and aligned?
-* What could the path from today's AI systems toward AGI look like?
+In the long term, I want to study areas related to major open problems in:
+
+* 🧮 Mathematics
+* 💻 Theoretical Computer Science
+* 🤖 Artificial Intelligence
+* 🌌 Physics & Computational Science
+
+The **Millennium Prize Problems** are a major source of inspiration for this goal.
+
+Rather than treating them as a checklist, I see them as a reminder of how much remains unknown — and as motivation to develop the mathematical depth required to contribute to fundamental research.
+
+> **Understand deeply. Question everything. Experiment relentlessly.**
 
 ---
 
 # 🌍 Open Source Goals
 
-I want to contribute to the developer and AI community by:
+I want to contribute to the developer and research community by:
 
 * 🔓 Publishing useful AI projects
 * 🤗 Building Hugging Face demos
 * 🧠 Contributing to AI/ML repositories
 * 🛠️ Creating reusable developer tools
+* 🔬 Publishing research experiments
 * 📚 Sharing what I learn
 * 🚀 Participating in hackathons
-* 🌍 Collaborating with other builders
+* 🌍 Collaborating with researchers and builders
 
 ---
 
@@ -362,25 +387,53 @@ I want to contribute to the developer and AI community by:
 
 * 🤖 Build production-ready AI Agents
 * 🧠 Strengthen Deep Learning & LLM fundamentals
-* 🦾 Start building real Robotics projects
-* 🔎 Explore Computer Vision & Embodied AI
+* 🦾 Begin serious Robotics projects
+* 👁️ Explore Computer Vision & Embodied AI
+* 🔬 Develop stronger research and mathematical foundations
+* 📚 Read and reproduce research papers
 * 🚀 Grow Zenvy Technologies
 * 🌐 Build and launch useful AI products
 * 🔓 Contribute consistently to Open Source
-* 📈 Build a strong engineering portfolio
+* 🧪 Start research-oriented experiments
 * 💼 Pursue high-impact AI opportunities
 
 ---
 
-# 💭 My Development Philosophy
+# 💭 My Philosophy
 
 <div align="center">
 
-## **Learn → Build → Ship → Improve → Repeat**
+## **Learn → Build → Research → Experiment → Ship → Improve**
 
-> *"Don't just learn technology. Build something people can use."*
+> *"Don't just use intelligent systems. Understand them, build them, and question what is possible."*
 
 </div>
+
+---
+
+# 🚀 Beyond Coding
+
+I'm interested in much more than writing software.
+
+I enjoy exploring:
+
+* 🧠 How intelligence works
+* 🧮 Mathematics and fundamental problems
+* 🤖 Artificial Intelligence
+* 🦾 Robotics
+* 🔬 Scientific research
+* 🚀 Startup & product building
+* 🌍 Emerging technologies
+* 📚 Continuous learning
+* 💡 Turning ideas into experiments and products
+
+---
+
+# ✨ Fun Fact
+
+> I don't want to simply become a better programmer.
+>
+> **I want to become an engineer who builds, a researcher who questions, and a scientist who explores problems that don't yet have answers.**
 
 ---
 
@@ -408,34 +461,11 @@ I want to contribute to the developer and AI community by:
 
 ---
 
-# 🚀 Beyond Coding
-
-When I'm not writing code, I'm interested in:
-
-* 🧠 Understanding how intelligence works
-* 🤖 Artificial Intelligence
-* 🦾 Robotics
-* 🚀 Startup & product building
-* 🔬 Exploring emerging technologies
-* 🌍 Building technology with real-world impact
-* 📚 Continuous learning
-* 💡 Turning ideas into working products
-
----
-
-# ✨ Fun Fact
-
-> I don't want to just use intelligent technology.
->
-> **I want to understand it, build it, and eventually create intelligent systems that can interact with the real world.**
-
----
-
 <div align="center">
 
-## Thanks for visiting! ❤️
+## ❤️ Thanks for visiting!
 
-### **Building the future with AI, one system at a time.**
+### **Building. Researching. Exploring the unknown.**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=footer"/>
 
